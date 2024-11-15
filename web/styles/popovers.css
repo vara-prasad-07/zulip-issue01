@@ -1156,7 +1156,7 @@ ul.popover-group-menu-member-list {
         /* Set the popover menu width equal to the width of the
         longest menu item, thus letting the menu items control
         the width of the menu. */
-        width: min-content;
+        width: 229.5px;
         /* Set `max-width` to the minimum of `97vw` and the value defined by
         the `--popover-menu-max-width` custom property, which should be defined
         as a local custom property in the scope of a particular popover where
